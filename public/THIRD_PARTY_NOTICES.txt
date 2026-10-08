@@ -1,0 +1,12 @@
+Runtime libraries distributed with this artwork:
+
+Three.js 0.180.0
+MIT License; see assets/licenses/THREE-LICENSE.txt
+https://threejs.org/
+
+GSAP 3.15.0
+Standard 'no charge' license: https://gsap.com/standard-license.; the original distribution notice is preserved in assets/licenses/GSAP-NOTICE.txt
+https://gsap.com/standard-license/
+
+Font notices and complete licenses: assets/fonts/NOTICE.txt and the accompanying OFL text files.
+Archive image sources and rights statements: ATTRIBUTION.md.

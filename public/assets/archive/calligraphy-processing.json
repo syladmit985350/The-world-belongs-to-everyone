@@ -1,0 +1,63 @@
+{
+  "source": "tianxia-original.png",
+  "method": "original alpha segmentation; remove low-alpha dust; four-glyph horizontal rearrangement; Euclidean signed distance; seeded weighted stroke sampling",
+  "glyphs": [
+    {
+      "character": "天",
+      "sourceCrop": [
+        430,
+        80,
+        795,
+        445
+      ],
+      "targetPosition": [
+        40,
+        57
+      ]
+    },
+    {
+      "character": "下",
+      "sourceCrop": [
+        440,
+        470,
+        770,
+        825
+      ],
+      "targetPosition": [
+        479,
+        63
+      ]
+    },
+    {
+      "character": "為",
+      "sourceCrop": [
+        425,
+        845,
+        825,
+        1275
+      ],
+      "targetPosition": [
+        870,
+        38
+      ]
+    },
+    {
+      "character": "公",
+      "sourceCrop": [
+        440,
+        1320,
+        805,
+        1615
+      ],
+      "targetPosition": [
+        1315,
+        100
+      ]
+    }
+  ],
+  "samples": 80000,
+  "sdfRangePixels": 24,
+  "seed": 1866,
+  "derivative": true,
+  "generatedHistoricalImage": false
+}

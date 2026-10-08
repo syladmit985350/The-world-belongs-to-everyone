@@ -1,0 +1,371 @@
+{
+  "environmentDate": "2026-10-08",
+  "application": "为革命 · 天下为公",
+  "preview": "http://127.0.0.1:5174/",
+  "session": "tianxia-polish (closed after verification)",
+  "build": {
+    "command": "npm run build",
+    "result": "passed",
+    "typecheck": "passed",
+    "bundle": "dist/assets/index-CF1KtZRa.js",
+    "css": "dist/assets/index-DnlaVpL2.css",
+    "javascriptKB": 698,
+    "gzipKB": 201.1,
+    "buildSeconds": 7.18
+  },
+  "contentVerification": {
+    "command": "npm run verify-content",
+    "result": "passed",
+    "worlds": 16,
+    "filmSeconds": 240,
+    "narrationCues": 29,
+    "sourcedNodes": 34,
+    "archiveImages": 8,
+    "calligraphySamples": 80000
+  },
+  "mobileViewports": [
+    [
+      375,
+      812
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "touchTargetCheck": {
+    "viewport": [
+      375,
+      812
+    ],
+    "allKeyControlsAtLeast44Pixels": true,
+    "controls": [
+      {
+        "height": 44,
+        "id": "sound",
+        "label": "开启声音",
+        "width": 44
+      },
+      {
+        "height": 44,
+        "id": "narration",
+        "label": "关闭中文旁白",
+        "width": 44
+      },
+      {
+        "height": 44,
+        "id": "language",
+        "label": "Switch to English",
+        "width": 44
+      },
+      {
+        "height": 44,
+        "id": "chapters-open",
+        "label": "章节",
+        "width": 44
+      },
+      {
+        "height": 44,
+        "id": "current-chapter",
+        "label": "15天下为公/ 16",
+        "width": 112.8125
+      },
+      {
+        "height": 44,
+        "id": "archive-open",
+        "label": "史料与创作",
+        "width": 60.40625
+      },
+      {
+        "height": 44,
+        "id": "timeline",
+        "label": "",
+        "width": 327
+      },
+      {
+        "height": 44,
+        "id": "previous",
+        "label": "上一章",
+        "width": 44
+      },
+      {
+        "height": 44,
+        "id": "play",
+        "label": "播放",
+        "width": 44
+      },
+      {
+        "height": 44,
+        "id": "next",
+        "label": "下一章",
+        "width": 44
+      }
+    ]
+  },
+  "generatedCanvasTextures": {
+    "actualSizes": [
+      [
+        615,
+        840
+      ],
+      [
+        960,
+        192
+      ]
+    ],
+    "logicalPixelScale": 0.6,
+    "pixelAreaReduction": 0.64,
+    "desktopScale": 1
+  },
+  "lowFrameRateClock": {
+    "filmSeconds": 0.6172999999880915,
+    "wallSeconds": 0.6205,
+    "method": "Deliberately blocked the browser main thread for 600ms, then waited two animation frames.",
+    "passed": true
+  },
+  "bfcache": {
+    "method": "Added an in-memory marker/pageshow observer, navigated to about:blank, then used browser Back.",
+    "canvasAttached": true,
+    "marker": "present",
+    "persisted": true,
+    "soundHintVisible": false,
+    "stats": {
+      "calligraphyLoaded": true,
+      "calls": 43,
+      "failures": [],
+      "geometries": 135,
+      "playing": true,
+      "textures": 39,
+      "time": 131.7432000000003,
+      "triangles": 1722,
+      "worlds": 10
+    }
+  },
+  "interactions": {
+    "englishLabelsAndEscape": {
+      "dialogClosed": true,
+      "language": "en",
+      "menuLabel": "Chapters",
+      "nextLabel": "Next chapter",
+      "state": {
+        "chapterIndex": 9,
+        "ended": false,
+        "playing": false,
+        "progress": 0.3746222222222381,
+        "time": 131.7432000000003
+      }
+    },
+    "nextButton": {
+      "chapterIndex": 10,
+      "ended": false,
+      "playing": false,
+      "progress": 0,
+      "time": 143
+    },
+    "arrowLeftAfterPreviousButton": {
+      "chapterIndex": 8,
+      "ended": false,
+      "playing": false,
+      "progress": 0,
+      "time": 110
+    },
+    "fallbackAfterArchiveClosed": {
+      "archiveClosed": true,
+      "fallbackVisible": true,
+      "retryVisible": true
+    },
+    "fallbackMethod": "Dispatched synthetic WebGL context-lost/restored events to exercise the fallback UI; this is not a hardware context-loss test.",
+    "rapidEnterThenHome": {
+      "coverDisplay": "flex",
+      "coverHidden": false,
+      "playing": false,
+      "time": 0
+    }
+  },
+  "hiddenCover": {
+    "hidden": true,
+    "computedDisplay": "none"
+  },
+  "failedResources": [],
+  "browserErrors": [],
+  "selectedMobileFrames": [
+    {
+      "calligraphyLoaded": true,
+      "calls": 23,
+      "failures": [],
+      "geometries": 59,
+      "playing": false,
+      "textures": 19,
+      "time": 26,
+      "triangles": 3226,
+      "worlds": 7
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 24,
+      "failures": [],
+      "geometries": 60,
+      "playing": false,
+      "textures": 19,
+      "time": 32,
+      "triangles": 3226,
+      "worlds": 7
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 33,
+      "failures": [],
+      "geometries": 87,
+      "playing": false,
+      "textures": 23,
+      "time": 84,
+      "triangles": 3778,
+      "worlds": 9
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 33,
+      "failures": [],
+      "geometries": 87,
+      "playing": false,
+      "textures": 23,
+      "time": 91,
+      "triangles": 3778,
+      "worlds": 9
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 43,
+      "failures": [],
+      "geometries": 87,
+      "playing": false,
+      "textures": 23,
+      "time": 130,
+      "triangles": 1722,
+      "worlds": 9
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 82,
+      "failures": [],
+      "geometries": 130,
+      "playing": false,
+      "textures": 36,
+      "time": 142,
+      "triangles": 852,
+      "worlds": 9
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 6,
+      "failures": [],
+      "geometries": 132,
+      "playing": false,
+      "textures": 38,
+      "time": 199,
+      "triangles": 10,
+      "worlds": 10
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 7,
+      "failures": [],
+      "geometries": 135,
+      "playing": false,
+      "textures": 39,
+      "time": 202,
+      "triangles": 1542,
+      "worlds": 10
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 5,
+      "failures": [],
+      "geometries": 135,
+      "playing": false,
+      "textures": 39,
+      "time": 209,
+      "triangles": 1028,
+      "worlds": 10
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 3,
+      "failures": [],
+      "geometries": 135,
+      "playing": false,
+      "textures": 39,
+      "time": 216,
+      "triangles": 514,
+      "worlds": 10
+    },
+    {
+      "calligraphyLoaded": true,
+      "calls": 9,
+      "failures": [],
+      "geometries": 135,
+      "playing": false,
+      "textures": 39,
+      "time": 239,
+      "triangles": 528,
+      "worlds": 10
+    }
+  ],
+  "screenshotReview": [
+    {
+      "file": "artifacts/polish-cover-390.png",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 0,
+      "result": "Entry controls, years and floating map occupy separate areas."
+    },
+    {
+      "file": "artifacts/polish-nanjing-375.png",
+      "viewport": [
+        375,
+        812
+      ],
+      "time": 130,
+      "result": "President portrait and constitution sheet fit inside the mobile frame; light controls readable."
+    },
+    {
+      "file": "artifacts/polish-calligraphy-375.png",
+      "viewport": [
+        375,
+        812
+      ],
+      "time": 216,
+      "result": "All four authentic calligraphy characters fit, with the opening cover hidden."
+    },
+    {
+      "file": "artifacts/polish-finale-375.png",
+      "viewport": [
+        375,
+        812
+      ],
+      "time": 239,
+      "result": "Four characters and full English finale line fit; light controls readable."
+    }
+  ],
+  "additionalVisualChecks": {
+    "viewport": [
+      390,
+      844
+    ],
+    "medicineTime": 26,
+    "principlesTime": 84,
+    "unfinishedTime": 202,
+    "result": "Medical page/bottles fit; three principle labels and spatial concepts visible; will quotation no longer cut at its left edge. Temporary screenshots are outside project artifacts."
+  },
+  "independentReview": {
+    "status": "not_completed",
+    "reason": "Parent reports unsupported reviewer model, then fallback evaluator service 413 Payload Too Large; no independent visual PASS is claimed."
+  },
+  "relatedParentReports": [
+    "artifacts/runtime-desktop.json",
+    "artifacts/playback-and-audio.json"
+  ],
+  "limitation": "Mobile verification uses desktop Chromium at emulated viewport sizes, rather than a physical phone."
+}

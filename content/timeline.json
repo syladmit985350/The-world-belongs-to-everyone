@@ -1,0 +1,838 @@
+[
+  {
+    "id": "birth",
+    "year": 1866,
+    "date": "1866-11-12",
+    "titleZh": "出生于翠亨村",
+    "titleEn": "Born in Cuiheng",
+    "location": "Xiangshan, Guangdong",
+    "descriptionZh": "孙文出生于广东香山县翠亨村。",
+    "descriptionEn": "Sun Wen was born in Cuiheng village, Xiangshan, Guangdong.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "honolulu-study",
+    "year": 1879,
+    "date": "1879",
+    "titleZh": "赴檀香山求学",
+    "titleEn": "Studies in Honolulu",
+    "location": "Honolulu",
+    "descriptionZh": "1879年赴檀香山求学，1883年回乡；片中的少年与村落为空间意象。",
+    "descriptionEn": "He went to Honolulu to study in 1879 and returned home in 1883. The boy and village are artistic evocations.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "medicine",
+    "year": 1892,
+    "date": "1892-07-23",
+    "titleZh": "香港西医书院毕业",
+    "titleEn": "Medical graduation in Hong Kong",
+    "location": "Hong Kong",
+    "descriptionZh": "1886年在广州学医，1887年转入香港西医书院；1892年7月23日毕业。",
+    "descriptionEn": "Medical studies began in Guangzhou in 1886, continued at the Hong Kong College of Medicine from 1887, and culminated in graduation on 23 July 1892.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "香港大学医学院 · Our Milestones",
+        "url": "https://135-med.hku.hk/milestones",
+        "kind": "university-history"
+      },
+      {
+        "title": "香港大学图书馆 · 孙中山在香港",
+        "url": "https://www.lib.hku.hk/syshk/A.html",
+        "kind": "university-archive"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "petition",
+    "year": 1894,
+    "date": "1894",
+    "titleZh": "上书李鸿章",
+    "titleEn": "Petition to Li Hongzhang",
+    "location": "Tianjin",
+    "descriptionZh": "提出改革建议，未能取得预期支持。燃烧书信是艺术转喻，不是原件遭焚的史实。",
+    "descriptionEn": "He sought support for reform from Li Hongzhang. The burning letter is a metaphor, not a claim about the physical document.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 生平介绍",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=16",
+        "kind": "museum-biography"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "xingzhonghui",
+    "year": 1894,
+    "date": "1894-11-24",
+    "titleZh": "兴中会成立",
+    "titleEn": "Founding of the Xingzhonghui",
+    "location": "Honolulu",
+    "descriptionZh": "兴中会在檀香山成立；海外华侨支持构成早期革命的重要基础。",
+    "descriptionEn": "The Xingzhonghui was founded in Honolulu, with overseas Chinese support vital to the revolutionary movement.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 生平介绍",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=16",
+        "kind": "museum-biography"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "美国国务院历史办公室 · The Chinese Revolution of 1911",
+        "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+        "kind": "government-historical-research"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "hongkong-headquarters",
+    "year": 1895,
+    "date": "1895-02-21",
+    "titleZh": "香港兴中会总会",
+    "titleEn": "Hong Kong headquarters",
+    "location": "Hong Kong",
+    "descriptionZh": "以乾亨行为掩护，组织筹备革命活动。",
+    "descriptionEn": "A Hong Kong headquarters operated under the cover of Qianhenghang.",
+    "sources": [
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "香港大学图书馆 · 孙中山在香港",
+        "url": "https://www.lib.hku.hk/syshk/A.html",
+        "kind": "university-archive"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "guangzhou-1895",
+    "year": 1895,
+    "date": "1895-10-26",
+    "titleZh": "广州起义计划失败",
+    "titleEn": "Failed Guangzhou uprising plan",
+    "location": "Guangzhou",
+    "descriptionZh": "起义计划事泄，陆皓东等遇难，孙中山赴日本。不要把失败视为胜利的必然步骤。",
+    "descriptionEn": "The plan was exposed, Lu Haodong and others were killed, and Sun left for Japan. Failure did not make eventual victory inevitable.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "london",
+    "year": 1896,
+    "date": "1896-10",
+    "titleZh": "伦敦蒙难",
+    "titleEn": "Detention in London",
+    "location": "London",
+    "descriptionZh": "在清驻英使馆被拘禁，康德黎等营救与舆论压力促成获释。信件与墙为空间重构，不是现场复原。",
+    "descriptionEn": "Detention at the Qing legation ended after intervention by James Cantlie and others and public pressure. The room and letter are abstract reconstructions.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "diaspora",
+    "year": 1905,
+    "date": "1895–1911",
+    "titleZh": "海外革命网络",
+    "titleEn": "Diaspora revolutionary network",
+    "location": "Asia, Pacific, Europe, North America",
+    "descriptionZh": "华侨、留学生与革命组织跨地区连接。地图线为跨年份活动示意，不能读作一次航程或逐日准确路线。",
+    "descriptionEn": "Diaspora communities, students and organisations connected across regions. Arcs represent a network across years, not a single voyage or a day-by-day itinerary.",
+    "sources": [
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "美国国务院历史办公室 · The Chinese Revolution of 1911",
+        "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+        "kind": "government-historical-research"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "tongmenghui",
+    "year": 1905,
+    "date": "1905-08-20",
+    "titleZh": "中国同盟会成立",
+    "titleEn": "Founding of the Tongmenghui",
+    "location": "Tokyo",
+    "descriptionZh": "孙中山、黄兴、宋教仁等人与多个革命团体联合，孙中山被推为总理。",
+    "descriptionEn": "Sun, Huang Xing, Song Jiaoren and fellow revolutionaries brought groups together in Tokyo; Sun became the alliance leader.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "美国国务院历史办公室 · The Chinese Revolution of 1911",
+        "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+        "kind": "government-historical-research"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "principles",
+    "year": 1905,
+    "date": "1905-11",
+    "titleZh": "三民主义的集中表达",
+    "titleEn": "Articulation of the Three Principles",
+    "location": "Tokyo",
+    "descriptionZh": "《民报》发刊词集中提出民族、民权、民生。其概念此后持续发展；1905年与1924年的阐释不能视作完全相同。",
+    "descriptionEn": "The inaugural Minbao editorial articulated nationalism, democracy and livelihood. These ideas developed over time; their 1905 and 1924 formulations were not identical.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 生平介绍",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=16",
+        "kind": "museum-biography"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "uprisings",
+    "year": 1907,
+    "date": "1907–1910",
+    "titleZh": "接连受挫的起义",
+    "titleEn": "Repeated failed uprisings",
+    "location": "Southern China",
+    "descriptionZh": "1907年黄冈、七女湖、防城、镇南关；1908年钦廉、河口；1910年广州新军起义。灯盏对应这些已记录事件，不制造总次数。",
+    "descriptionEn": "Documented attempts include Huanggang, Qinvhu, Fangcheng and Zhennanguan in 1907, Qin-Lian and Hekou in 1908, and the Guangzhou New Army uprising in 1910.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "huanghuagang",
+    "year": 1911,
+    "date": "1911-04-27",
+    "titleZh": "广州黄花岗起义",
+    "titleEn": "Huanghuagang uprising",
+    "location": "Guangzhou",
+    "descriptionZh": "黄兴率广州起义，死难者后来葬于黄花岗。传统“七十二烈士”并不等于全部死难者人数。",
+    "descriptionEn": "Huang Xing led the Guangzhou uprising. The traditional designation of seventy-two martyrs does not represent all deaths.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "wuchang",
+    "year": 1911,
+    "date": "1911-10-10",
+    "titleZh": "武昌起义；孙中山身在海外",
+    "titleEn": "Wuchang uprising; Sun overseas",
+    "location": "Wuchang / United States",
+    "descriptionZh": "湖北新军中的革命组织发动起义。孙中山身在美国，随后获知消息，没有在武昌现场亲自指挥。",
+    "descriptionEn": "Revolutionary organisations in the Hubei New Army launched the uprising. Sun was in the United States and learned of it afterwards; he did not command it in person.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "美国国务院历史办公室 · The Chinese Revolution of 1911",
+        "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+        "kind": "government-historical-research"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "collective-revolution",
+    "year": 1911,
+    "date": "1911",
+    "titleZh": "共同塑造辛亥革命",
+    "titleEn": "A revolution shaped by many",
+    "location": "China and overseas",
+    "descriptionZh": "地方革命党人、新军、会党、华侨、知识分子及其他社会力量参与，政治目标也不完全一致。",
+    "descriptionEn": "Local revolutionaries, New Army soldiers, secret societies, diaspora communities, intellectuals and other social forces participated with differing political goals.",
+    "sources": [
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "美国国务院历史办公室 · The Chinese Revolution of 1911",
+        "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+        "kind": "government-historical-research"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "return",
+    "year": 1911,
+    "date": "1911-12-25",
+    "titleZh": "抵达上海",
+    "titleEn": "Arrival in Shanghai",
+    "location": "Shanghai",
+    "descriptionZh": "孙中山经欧洲返国，12月25日抵上海。“流亡十六年”指革命生涯的一段长期状态，不应写成十六年从未踏上中国土地。",
+    "descriptionEn": "Sun returned via Europe, arriving in Shanghai on 25 December. A long period of exile should not be described as sixteen years without ever entering Chinese territory.",
+    "sources": [
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "美国国务院历史办公室 · The Chinese Revolution of 1911",
+        "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+        "kind": "government-historical-research"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "election",
+    "year": 1911,
+    "date": "1911-12-29",
+    "titleZh": "当选临时大总统",
+    "titleEn": "Elected provisional president",
+    "location": "Nanjing",
+    "descriptionZh": "各省代表选举孙中山为临时大总统。",
+    "descriptionEn": "Provincial representatives elected Sun as provisional president.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "美国国务院历史办公室 · The Chinese Revolution of 1911",
+        "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+        "kind": "government-historical-research"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "republic",
+    "year": 1912,
+    "date": "1912-01-01",
+    "titleZh": "南京临时政府成立",
+    "titleEn": "Nanjing provisional government",
+    "location": "Nanjing",
+    "descriptionZh": "孙中山元旦就任临时大总统；建国之后仍需建立制度与获得广泛认可。",
+    "descriptionEn": "Sun took office on New Year’s Day. Establishing a republic still required institutions and wider recognition.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "constitution-1912",
+    "year": 1912,
+    "date": "1912-03-11",
+    "titleZh": "公布《中华民国临时约法》",
+    "titleEn": "Provisional Constitution promulgated",
+    "location": "Nanjing",
+    "descriptionZh": "第二条：中华民国之主权属于国民全体。第五条规定人民一律平等。片中节选保留条次与日期，使用简体转写。",
+    "descriptionEn": "Article 2 places sovereignty in the whole people; Article 5 provides equality. Excerpts retain article numbers and date, with simplified-character transcription.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "《临时政府公报》35号 · 中华民国临时约法（中山学术资料库）",
+        "url": "https://sunology.yatsen.gov.tw/detail/793b953d3a86b2f829a5d6959c0aa861/",
+        "kind": "primary-document"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "resignation",
+    "year": 1912,
+    "date": "1912-04-01",
+    "titleZh": "解临时大总统职",
+    "titleEn": "Leaves the provisional presidency",
+    "location": "Nanjing",
+    "descriptionZh": "2月提出辞职，4月1日正式解职；南北议和、清帝退位与让位袁世凯相互关联。",
+    "descriptionEn": "Resignation was offered in February and departure from office formalised on 1 April, amid negotiations, Qing abdication and transfer to Yuan Shikai.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "美国国务院历史办公室 · The Chinese Revolution of 1911",
+        "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+        "kind": "government-historical-research"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "song-jiaoren",
+    "year": 1913,
+    "date": "1913-03",
+    "titleZh": "宋教仁遇刺后身亡",
+    "titleEn": "Assassination of Song Jiaoren",
+    "location": "Shanghai",
+    "descriptionZh": "宋教仁在上海车站遭枪击，数日后身亡。作品不在证据之外断言某人的直接指使。",
+    "descriptionEn": "Song was shot at a Shanghai station and died days later. The artwork does not assert direct responsibility beyond the evidence.",
+    "sources": [
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "孙中山故居纪念馆 · 生平介绍",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=16",
+        "kind": "museum-biography"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "second-revolution",
+    "year": 1913,
+    "date": "1913",
+    "titleZh": "二次革命失败；再度流亡",
+    "titleEn": "Failed Second Revolution and exile",
+    "location": "China / Japan",
+    "descriptionZh": "反袁斗争失败后，孙中山再赴日本。共和国的制度危机并非简单的善恶二元故事。",
+    "descriptionEn": "The anti-Yuan struggle failed and Sun again left for Japan. The institutional crisis cannot be reduced to a binary morality tale.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "chinese-revolutionary-party",
+    "year": 1914,
+    "date": "1914-07",
+    "titleZh": "中华革命党成立",
+    "titleEn": "Chinese Revolutionary Party founded",
+    "location": "Tokyo",
+    "descriptionZh": "孙中山在日本组织中华革命党；1919年改组为中国国民党。",
+    "descriptionEn": "Sun organised the Chinese Revolutionary Party in Japan; it was reorganised as the KMT in 1919.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "yuan-monarchy",
+    "year": 1915,
+    "date": "1915–1916",
+    "titleZh": "袁世凯的帝制尝试",
+    "titleEn": "Yuan Shikai’s imperial attempt",
+    "location": "Beijing",
+    "descriptionZh": "帝制尝试与反对运动使新生共和秩序进一步承受冲击。",
+    "descriptionEn": "Yuan’s imperial attempt and resistance to it further destabilised the republican order.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 生平介绍",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=16",
+        "kind": "museum-biography"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "constitutional-protection",
+    "year": 1917,
+    "date": "1917-09",
+    "titleZh": "广州护法军政府",
+    "titleEn": "Constitutional Protection government",
+    "location": "Guangzhou",
+    "descriptionZh": "护法军政府以恢复约法与国会合法性为主张；也受地方军事力量与联盟变化制约。",
+    "descriptionEn": "Constitutional Protection sought to restore the constitution and parliament, amid shifting military and political alliances.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "development",
+    "year": 1919,
+    "date": "1918–1922",
+    "titleZh": "建设的蓝图",
+    "titleEn": "Plans for development",
+    "location": "Shanghai",
+    "descriptionZh": "《建国方略》等著述包括铁路、港口、水利、实业等设想。线框城市是理想的抽象表达，不是全部真实建成的项目。",
+    "descriptionEn": "Development writings imagined railways, ports, waterworks and industry. The wireframe city represents plans rather than completed projects.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "reorganization",
+    "year": 1924,
+    "date": "1924-01-20",
+    "titleZh": "国民党第一次全国代表大会",
+    "titleEn": "First National Congress of the KMT",
+    "location": "Guangzhou",
+    "descriptionZh": "改组政党、与苏俄合作、容纳共产党员以个人身份加入国民党、扶助农工，均须置于1924年的历史背景中理解。",
+    "descriptionEn": "Reorganisation, Soviet cooperation, admission of Communists as individual KMT members and support for workers and peasants belong to the specific setting of 1924.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "whampoa",
+    "year": 1924,
+    "date": "1924-06-16",
+    "titleZh": "黄埔军校开学典礼",
+    "titleEn": "Whampoa opening ceremony",
+    "location": "Guangzhou",
+    "descriptionZh": "黄埔军校举行正式开学典礼；课堂空间讨论理念如何交给下一代。",
+    "descriptionEn": "Whampoa held its formal opening ceremony. The classroom asks how ideals pass to another generation.",
+    "sources": [
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      },
+      {
+        "title": "Wikimedia Commons · Sun at Whampoa, 16 June 1924",
+        "url": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen,_He_Yingqin,_Chiang_Kai-shek_%26_Wang_Bo-ling_at_the_Whampoa_Military_Academy,_June_1924.jpg",
+        "kind": "historical-photograph"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "northward",
+    "year": 1924,
+    "date": "1924-11–1924-12",
+    "titleZh": "北上商议国是",
+    "titleEn": "Northward journey",
+    "location": "Guangzhou → Shanghai → Japan → Tianjin → Beijing",
+    "descriptionZh": "11月13日离广州北上，经上海、日本赴天津，12月31日乘火车抵北京。车窗场景对应末段，不能称全程铁路北行。",
+    "descriptionEn": "He left Guangzhou on 13 November, travelled via Shanghai and Japan to Tianjin, and reached Beijing by train on 31 December. The train scene evokes that final leg.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 生平介绍",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=16",
+        "kind": "museum-biography"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "testament",
+    "year": 1925,
+    "date": "1925-03-11",
+    "titleZh": "政治遗嘱补签",
+    "titleEn": "Political testament signed",
+    "location": "Beijing",
+    "descriptionZh": "遗嘱笔录者为汪精卫，孙文签署；节选“现在革命尚未成功”“继续努力，以求贯彻”。不把全部原创旁白当作孙中山原话。",
+    "descriptionEn": "Wang Jingwei recorded the text signed by Sun. Two short phrases are quoted; the rest of the narration is original and not attributed to Sun.",
+    "sources": [
+      {
+        "title": "《国父全集》9册637页 · 遗嘱—壹（中山学术资料库）",
+        "url": "https://sunology.yatsen.gov.tw/detail/b8b520e17c5af94b8f88cfc919eeb539/",
+        "kind": "primary-document"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "death",
+    "year": 1925,
+    "date": "1925-03-12",
+    "titleZh": "逝世于北京",
+    "titleEn": "Death in Beijing",
+    "location": "Beijing",
+    "descriptionZh": "孙中山于1925年3月12日因病逝世。",
+    "descriptionEn": "Sun died in Beijing on 12 March 1925.",
+    "sources": [
+      {
+        "title": "孙中山故居纪念馆 · 大事年表",
+        "url": "https://www.sunyat-sen.org/portal/list/index.html?id=18",
+        "kind": "museum-chronology"
+      },
+      {
+        "title": "国立国父纪念馆 · 国父大事年表",
+        "url": "https://sunology.yatsen.gov.tw/legend/",
+        "kind": "archival-chronicle"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "calligraphy",
+    "year": 1924,
+    "date": "1924",
+    "titleZh": "天下為公手迹",
+    "titleEn": "The public ideal in Sun’s hand",
+    "location": "Shanghai archive / Wikimedia Commons",
+    "descriptionZh": "依据Commons档案记载，手迹题于1924年。原图保留，粒子与透明蒙版来自实际笔画；分字重新编排不冒充另一件原作。",
+    "descriptionEn": "Commons dates the inscription to 1924. The original is retained; the particle cloud and alpha mask sample real strokes. Rearranged characters are a disclosed artistic derivative.",
+    "sources": [
+      {
+        "title": "Wikimedia Commons · TianXiaWeiGong.png",
+        "url": "https://commons.wikimedia.org/wiki/File:TianXiaWeiGong.png",
+        "kind": "archive-item"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "public-ideal",
+    "year": 1925,
+    "date": "1925 onwards",
+    "titleZh": "历史仍在继续",
+    "titleEn": "History continues",
+    "location": "The viewer",
+    "descriptionZh": "“天下为公”出自《礼记·礼运》。终章是作品对公共理想的当代追问，不宣称孙中山全部理念已完成，也不把复杂历史当作单一结论。",
+    "descriptionEn": "The phrase comes from the Liji. The finale is an artistic question about a public ideal, not a claim that Sun’s project was completed or history has a single conclusion.",
+    "sources": [
+      {
+        "title": "Wikimedia Commons · TianXiaWeiGong.png",
+        "url": "https://commons.wikimedia.org/wiki/File:TianXiaWeiGong.png",
+        "kind": "archive-item"
+      },
+      {
+        "title": "《国父全集》9册637页 · 遗嘱—壹（中山学术资料库）",
+        "url": "https://sunology.yatsen.gov.tw/detail/b8b520e17c5af94b8f88cfc919eeb539/",
+        "kind": "primary-document"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  },
+  {
+    "id": "map-context",
+    "year": 1892,
+    "date": "1892",
+    "titleZh": "地图的年代与用途",
+    "titleEn": "The date and use of the map",
+    "location": "East Asia",
+    "descriptionZh": "开场影像为1892年地图，晚于出生年1866。世界地球只用自然海岸线，不把现代国家边界冒充晚清政治疆界。",
+    "descriptionEn": "The opening map dates to 1892, later than the birth year 1866. The globe uses physical coastlines rather than presenting present-day state boundaries as late-Qing borders.",
+    "sources": [
+      {
+        "title": "Wikimedia Commons · 1892 map of China and Korea",
+        "url": "https://commons.wikimedia.org/wiki/File:1892_map_of_China_and_Korea_by_the_Imperial_Japanese_Army.jpg",
+        "kind": "primary-cartographic-item"
+      }
+    ],
+    "verified": true,
+    "checkedDate": "2026-10-07"
+  }
+]
